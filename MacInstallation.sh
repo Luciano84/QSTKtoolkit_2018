@@ -34,7 +34,7 @@ mkdir ~/QSTK
 cd ~/QSTK
 
 echo "Install pandas, scikits"
-pip2 install pandas==0.7.3
+pip2 install pandas
 pip2 install scikits.statsmodels
 pip2 install scikit-learn
 
